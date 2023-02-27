@@ -1,4 +1,5 @@
 # Mobile Suit Gundam
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE4OTEwZjgzMzczOTk1NGE2OTBjMDdjODg1NjExMWM1NjZlODFhNSZjdD1n/JMicshQJvNHKcOaVtR/giphy-downsized-large.gif)
 
 ## Description
 * Create a website that track the number of owning Perfect Grade Gundam Model
