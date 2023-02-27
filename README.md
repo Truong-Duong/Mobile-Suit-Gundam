@@ -1,4 +1,4 @@
-# Mobile Suit Gundam
+<h1 align="center">Mobile Suit Gundam</h1>
 <p align="center" > <img  src="./Media/Intro Folder/Mobile Suit Gundam.gif"/></p>
 
 ## Description
