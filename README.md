@@ -1,5 +1,5 @@
 # Mobile Suit Gundam
-![](<iframe src="https://giphy.com/embed/JMicshQJvNHKcOaVtR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JMicshQJvNHKcOaVtR">via GIPHY</a></p>)
+![](https://github.com/Truong-Duong/Mobile-Suit-Gundam/blob/main/Media/Intro%20Folder/Mobile%20Suit%20Gundam.gif>)
 
 ## Description
 * Create a website that track the number of owning Perfect Grade Gundam Model
