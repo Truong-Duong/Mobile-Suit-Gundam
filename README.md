@@ -1,5 +1,5 @@
 # Mobile Suit Gundam
-![](https://github.com/Truong-Duong/Mobile-Suit-Gundam/blob/main/Media/Intro%20Folder/Mobile%20Suit%20Gundam.gif>)
+<p align="center" > <img  src="./Media/Intro Folder/Mobile Suit Gundam.gif"/></p>
 
 ## Description
 * Create a website that track the number of owning Perfect Grade Gundam Model
